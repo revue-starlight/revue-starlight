@@ -2,17 +2,11 @@
 This is revue-starlight.
 A common student.
 
-
-
 ### 关于我
 + 前竞赛狗
-+ Codeforces 1k8
-+ ICPC 铜一个 <- 减分项
 + Archlinux / KDE Plasma
 + 会一点 C++
 + go / rust / typescript 学习中
-+ blog 101.132.74.178
-
 
 ### 设备
 - VAIO sx14 2019款 屏幕已坏，待修
@@ -20,9 +14,5 @@ A common student.
 - iPhone 12
 
 ### 最近雾酱在做什么
-摆大烂，啥也不会
-
-### 雾酱想要做什么？
-> ~~变成猫娘~~  
-> 成为全栈  
-> 学会web3
+- 帮助自己背单词的复习提醒机
+- ~~没有好活可整~~
